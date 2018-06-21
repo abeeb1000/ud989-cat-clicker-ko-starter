@@ -7,4 +7,4 @@ var viewModel = function(){
     }
 };
 
-ko.applyBidings(new viewModel());
+ko.applyBindings(new viewModel());
