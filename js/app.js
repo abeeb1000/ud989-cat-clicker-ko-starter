@@ -1,4 +1,3 @@
-
 var viewModel = function(){
     this.catName = ko.observable("Shy Cat");
     this.imgSrc = ko.observable("https://www.our-happy-cat.com/images/xshy-hiding-cat.jpg.pagespeed.ic.aGWMLHO7sn.jpg");
